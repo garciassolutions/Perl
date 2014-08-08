@@ -1,0 +1,1 @@
+die map(chr 32+rand 96,1..pop),$/
